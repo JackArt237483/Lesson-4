@@ -1,0 +1,94 @@
+.wrapper{
+    display: flex;
+   width: 400px;
+    height: 235px;
+    background-color: rosybrown;
+    flex-wrap: wrap;
+    margin: auto;
+    border-radius: 10px;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+button{
+    margin-left: 404px;
+    margin-top: 40px;
+}
+.container{
+    width: 150px;
+    height: 75px;
+    border: 1px solid red;
+    border-radius: 8px ;
+    background: rebeccapurple;
+}
+.name{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige;
+}
+.age{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige;
+}
+.skin{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige; 
+}
+.nams{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige; 
+}
+.agew{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige; 
+}
+.male{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige; 
+}
+.street{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige; 
+}
+.location{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige; 
+}
+.state{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige; 
+}
+.model{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige; 
+}
+.dress{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige;   
+}
+.hair{
+    border: 1px solid red;
+    background: brown;
+    border-radius: 6px;
+    color: beige; 
+}
